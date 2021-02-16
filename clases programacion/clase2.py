@@ -13,9 +13,11 @@ NOMBRE = "Paulina Orozco Ruiz"
 print ("#"*15,"Mayor Edad", "#"*15)
 isMayorEdad = edad >= 18
 print (isMayorEdad)
+# aqui preguntamos si soy mas baja de la estatura promedio
 print ("#"*15,"bajo la estatura promedio", "#"*15)
 isMayorEstatura = estatura < 1.70
 print(isMayorEstatura)
+# aquí preguntamos si mi peso es diferente a 84
 print ("#"*15,"peso diferente 84", "#"*15)
 isPesoDiferente = peso != 84
 print (isPesoDiferente) 
