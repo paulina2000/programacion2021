@@ -82,6 +82,7 @@ def fibonacci (n):
         print((n-1)+(n-2))
 
 fibonacci (posicion)
+print(30*'$')
 
 
 
