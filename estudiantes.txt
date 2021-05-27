@@ -1,0 +1,4 @@
+Archivo de estudiantes 
+nombre: rafa edad: 22 estatura: 1.78 
+nombre: pauli edad: 20 estatura: 1.75 
+nombre: saris edad: 19 estatura: 1.68

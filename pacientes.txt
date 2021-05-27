@@ -1,0 +1,3 @@
+Archivo de estudiantes 
+nombre: rafael enfermedad: hipertension precio: 40000 
+nombre: laura enfermedad: demencia precio: 50000
