@@ -110,3 +110,4 @@ archivo=open(nombreArchivo, 'a')
 linea = ' \nnombre: ' + nombre + ' enfermedad: ' + str(enfermedad) + ' precio: ' + str(precio)
 archivo.writelines(linea)
 archivo.close()
+#---Gracias por todo lo que nos enseño este semestre profe, demasiado buen profesor---#
